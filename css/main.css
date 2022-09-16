@@ -1,0 +1,28 @@
+@import url(reset.css);
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    z-index: 9999;
+}
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    top: -25px;
+    left: 100px;
+    z-index: 9998;
+}
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    top: -55px;
+    left: 250px;
+    z-index: 9999;
+}
