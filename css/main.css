@@ -1,4 +1,9 @@
 @import url(reset.css);
+body {
+	font-size:18px;
+	color: #000;	
+
+}
 .box1 {
     width: 200px;
     height: 200px;
